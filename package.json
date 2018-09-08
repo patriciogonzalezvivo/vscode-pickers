@@ -4,6 +4,7 @@
     "description": "Float, 2D/3D Vector and Color Pickers for creative coding",
     "version": "0.0.1",
     "publisher": "patriciogv",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.27.0"
     },
@@ -32,5 +33,13 @@
         "eslint": "^4.11.0",
         "@types/node": "^8.10.25",
         "@types/mocha": "^2.2.42"
+    },
+    "bugs": {
+        "url": "https://github.com/patriciogonzalezvivo/vscode-pickers/issues"
+    },
+    "homepage": "https://github.com/patriciogonzalezvivo/vscode-pickers/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/patriciogonzalezvivo/vscode-pickers.git"
     }
 }
