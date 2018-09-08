@@ -1,0 +1,39 @@
+{
+    "name": "pickers",
+    "displayName": "pickers",
+    "description": "Float, 2D/3D Vectors and Color pickers for GLSL/HLSL Pickers",
+    "version": "0.0.1",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "bugs": {
+        "url": "https://github.com/patriciogonzalezvivo/vscode-pickers/issues"
+    },
+    "homepage": "https://github.com/patriciogonzalezvivo/vscode-pickers/blob/master/README.md",
+    "contributes": {
+        "configuration": {
+            "properties": {}
+        },
+        "commands": [],
+        "snippets": [],
+        "languages": []
+    },
+    "scripts": {
+    },
+    "devDependencies": {
+        "vscode": "^1.1.6"
+    },
+    "keywords": [
+        "shader",
+        "hlsl",
+        "glsl"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/patriciogonzalezvivo/vscode-pickers.git"
+    }
+}
